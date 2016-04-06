@@ -44,7 +44,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstracts\ByteBase.cs" />
+    <Compile Include="Controller_3\Controller_3.cs" />
+    <Compile Include="Controller_2\Controller_2_DO3.cs" />
     <Compile Include="Controller_2\Controller_2.cs" />
+    <Compile Include="Controller_2\Controller_2_DO1.cs" />
+    <Compile Include="Controller_2\Controller_2_DO2.cs" />
+    <Compile Include="Controller_2\Controller_2_DO4.cs" />
+    <Compile Include="Controller_2\Controller_2_DO5.cs" />
+    <Compile Include="Controller_2\Controller_2_DO6.cs" />
+    <Compile Include="Controller_2\Controller_2_DO7.cs" />
+    <Compile Include="Controller_3\Controller_3_DO0.cs" />
+    <Compile Include="Controller_3\Controller_3_DO1.cs" />
+    <Compile Include="Controller_3\Controller_3_DO2.cs" />
+    <Compile Include="Controller_3\Controller_3_DO3.cs" />
+    <Compile Include="Controller_3\Controller_3_DO4.cs" />
+    <Compile Include="Controller_3\Controller_3_DO5.cs" />
+    <Compile Include="Controller_3\Controller_3_DO6.cs" />
+    <Compile Include="Controller_3\Controller_3_DO7.cs" />
     <Compile Include="Controller_4\Controller_4.cs" />
     <Compile Include="Controller_4\Controller_4_DO5.cs" />
     <Compile Include="Controller_4\Controller_4_DO0.cs" />

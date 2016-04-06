@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace VFly
 {
-    public class Controller_2_DO0 : ByteBase, IByteValue
+    public class Controller_3_DO0 : ByteBase, IByteValue
     {
         public byte Value
         {
