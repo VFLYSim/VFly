@@ -1,0 +1,5 @@
+C:\Users\Szymon\Source\Repos\VFly\VFly\obj\Debug\VFly.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Source\Repos\VFly\VFly\bin\Debug\VFly.dll
+C:\Users\Szymon\Source\Repos\VFly\VFly\bin\Debug\VFly.pdb
+C:\Users\Szymon\Source\Repos\VFly\VFly\obj\Debug\VFly.dll
+C:\Users\Szymon\Source\Repos\VFly\VFly\obj\Debug\VFly.pdb
